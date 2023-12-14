@@ -2,7 +2,7 @@
 .contact__inner-container {
   margin: auto;
   /* width: 40%; */
-  max-width: 540px;
+  max-width: 560px;
   /* max-width: min(40%, 540px); */
   padding: var(--padding-lg) 0;
 }
@@ -22,7 +22,7 @@
 }
 
 .contact__inner-container div {
-  width: 65%;
+  width: 68%;
   margin: auto;
   display: flex;
   flex-direction: column;
